@@ -1,0 +1,7 @@
+{
+  "name": "Character Forge",
+  "description": "A modular, real-time visual AI prompt and keyword generator for Midjourney, Flux, SDXL, and diffusion image models with 1-click copying.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
